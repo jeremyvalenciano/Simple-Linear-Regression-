@@ -1,6 +1,5 @@
 # 📈 Proyecto de Regresión Lineal Simple - Advertising vs Sales
 
-![Ejemplo de gráfico de regresión lineal](https://miro.medium.com/max/1400/1*T2lYnNIx5wW8PJq7LNT7Jw.png)
 
 Implementación orientada a objetos de un modelo de regresión lineal simple para predecir ventas en función del gasto en publicidad.
 
